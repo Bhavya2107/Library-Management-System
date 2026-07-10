@@ -1,0 +1,6 @@
+{
+  "name": "Library Management System",
+  "description": "A responsive, feature-rich Library Management System for managing books, students, categories, reports, and issued books.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
